@@ -1,0 +1,10 @@
+C:\Users\Broj 18\source\repos\Heroes Journey\C-Homeworks\Heroes-Journey-Homework\Heroes Journey\bin\Debug\netcoreapp2.1\win-x64\Heroes Journey.exe
+C:\Users\Broj 18\source\repos\Heroes Journey\C-Homeworks\Heroes-Journey-Homework\Heroes Journey\bin\Debug\netcoreapp2.1\win-x64\Heroes Journey.deps.json
+C:\Users\Broj 18\source\repos\Heroes Journey\C-Homeworks\Heroes-Journey-Homework\Heroes Journey\bin\Debug\netcoreapp2.1\win-x64\Heroes Journey.runtimeconfig.json
+C:\Users\Broj 18\source\repos\Heroes Journey\C-Homeworks\Heroes-Journey-Homework\Heroes Journey\bin\Debug\netcoreapp2.1\win-x64\Heroes Journey.runtimeconfig.dev.json
+C:\Users\Broj 18\source\repos\Heroes Journey\C-Homeworks\Heroes-Journey-Homework\Heroes Journey\bin\Debug\netcoreapp2.1\win-x64\Heroes Journey.dll
+C:\Users\Broj 18\source\repos\Heroes Journey\C-Homeworks\Heroes-Journey-Homework\Heroes Journey\bin\Debug\netcoreapp2.1\win-x64\Heroes Journey.pdb
+C:\Users\Broj 18\source\repos\Heroes Journey\C-Homeworks\Heroes-Journey-Homework\Heroes Journey\obj\Debug\netcoreapp2.1\win-x64\Heroes Journey.AssemblyInfoInputs.cache
+C:\Users\Broj 18\source\repos\Heroes Journey\C-Homeworks\Heroes-Journey-Homework\Heroes Journey\obj\Debug\netcoreapp2.1\win-x64\Heroes Journey.AssemblyInfo.cs
+C:\Users\Broj 18\source\repos\Heroes Journey\C-Homeworks\Heroes-Journey-Homework\Heroes Journey\obj\Debug\netcoreapp2.1\win-x64\Heroes Journey.dll
+C:\Users\Broj 18\source\repos\Heroes Journey\C-Homeworks\Heroes-Journey-Homework\Heroes Journey\obj\Debug\netcoreapp2.1\win-x64\Heroes Journey.pdb
